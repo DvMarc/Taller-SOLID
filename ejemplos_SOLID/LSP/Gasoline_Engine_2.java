@@ -1,3 +1,5 @@
+package LSP;
+
 public class Gasoline_Engine_2 implements Engine{
 
     private boolean isSparkFire = false;

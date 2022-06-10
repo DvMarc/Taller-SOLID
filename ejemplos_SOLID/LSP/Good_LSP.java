@@ -1,3 +1,5 @@
+package LSP;
+
 public class Good_LSP {
     
     public static boolean four_stroke_cycle(Engine motor){
